@@ -1,0 +1,18 @@
+{
+    "Menu": [{
+        "title": "Playlist",
+        "icon": "sap-icon://list",
+        "targetPage": "CoffeeList",
+        "description": "Saved Playlist"
+    }, {
+        "title": "About",
+        "icon": "sap-icon://sys-help",
+        "targetPage": "Info",
+        "description": "More Information"
+    }, {
+        "title": "Contact",
+        "icon": "sap-icon://sys-help",
+        "targetPage": "Info",
+        "description": "Contact Details"
+    }]
+}

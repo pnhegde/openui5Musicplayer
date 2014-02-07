@@ -1,0 +1,28 @@
+/* Custom Styles  */
+#ui5Logo {
+    padding-left: 10px;
+}
+#myproLink {
+    color: #ffffff;
+}
+.welcomeText {
+	font-size: 1.0rem;
+	margin: 2rem;
+}
+#mp3Logo {
+	margin-left: 10px;
+}
+.loginpopup {
+	width: 400px;
+	margin-left: 35%;
+	height: 250px;
+	margin-top: 12%;
+
+}
+.playerpopup {
+    width: 384px;
+    margin-left: 35%;
+    height: 220px;
+    margin-top: 12%;
+
+}

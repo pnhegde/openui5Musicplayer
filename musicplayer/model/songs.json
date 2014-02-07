@@ -1,0 +1,33 @@
+{
+    "Songs": [{
+        "name": "Please forgive me...",
+        "fans": "560",
+        "cover" : "img/bryanadams.jpg",
+        "description": "Bryan adams' All time favorites !",
+        "artist" : "Bryan Adams"
+    }, {
+        "name": "You say it best, when you say nothing at all",
+        "fans": "490",
+        "cover" : "img/keithwhitely.jpg",
+        "description": "Keith Whitely's superhit country songs",
+        "artist" : "Keith Whitely"
+    }, {
+        "name": "I Cross my Heart",
+        "fans": "340",
+        "cover": "img/georgestrait.jpg",
+        "description": "George Strait's best songs",
+        "artist":  "George Strait"
+    }, {
+        "name": "Rolling in the deep",
+        "fans": "625",
+        "cover" : "img/adele.jpg",
+        "description": "Adele's top songs list",
+        "artist" : "Adele"
+    }, {        
+        "name": "Till The World Ends",
+        "fans": "270",
+        "cover": "img/britney.jpg",
+        "description": "Britey's superhit songs",
+        "artist": "Britey Spears"
+    }]
+} 
